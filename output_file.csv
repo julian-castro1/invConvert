@@ -1,76 +1,77 @@
-K-H72
-RK-FBK-RAM-3
-RSK-JP-1302-5
-RFK-GM-CRZ4
-RSK-NIS-ROG20
-RSK-NIS-ROG18
-RSK-CHY-1302-5
-RO-GM-LHJ
-RSK-NIS-4106
-RSK-NIS-7B10
-RSK-NIS-G744-5
-RSK-NIS-014A
-RSK-NIS-1315-5
-RSK-NIS-ALT20
-RSK-NIS-XN45
-RK-NIS-903
-RSK-GM-4EA-5BH
-RSK-GM-4EA-5
-RSK-ULK173
-RFK-GM-PRX5
-RK-GM-FP5
-RFK-FD-RA04
-RFK-KIA-FT04
-RFK-KIA-022
-RFK-KIA066
-RFK-KIA-SO19
-RFK-KIA-OPT4
-RFK-KIA-022
-RFK-HY-SNFE4
-RFK-HY-SON17
-RFK-HY-SN25
-RSK-CAD-2AB-5
-RSK-GM-NBG-5
-RFK-NIS-767
-K-B119
-K-HO03
-RK-HON-MLB-4
-RHK-HON-ACC2
-RK-HON-401
-RK-HON-CIV-4
-RK-HON-1TA-4
-RK-HON-35118
-RSK-HON-CT0A-3
-RO-HY-T008
-RO-HY-042
-RO-HY-041
-OR-KIA011
-OR-KIA-036
-ST-VA2
-MTK-VA2
-OR-HY-HE3T
-OR-HY-T038
-RO-HY-043
-RK-CHY-OHT-4
-K-Y164
-RK-FBK-1004
-RSK-JP-54T-4
-RK-FD-402
-RK-FD-404
-K-H92-OEMCHIP
-RK-FD-303
-RSK-FD-GLSHN
-MTK-H75
-R-FD-4
-R-GM-802
-R-GM-402
-R-GM-502
-R-GM-301
-K-N104
-K-N102T
-RFK-TOY-BFB-4
-RHK-TOY-BDM-G-4
-RHK-TOY-BDM-H-4
-RHK-TOY-29T-G3
-RHK-TOY-29T-67-4B
-RSK-TOY-00204
+inv_ID,OOS,inv_count,type,on_van,on_base,UHS_SKU,chip_ID,FCC_ID,blade_ID,freq,total_sold,avg_cost,avg_sale,img,total_value
+0001,,3,,1,transponder,3,0,K-H72,n/a,n/a,n/a,n/a,0,3.79,80,n/a,11.370000000000001,https://www.uhs-hardware.com/products/transponder-key-ford-lincoln-mercury-h72
+0002,,1,,1,fobik,1,0,RK-FBK-RAM-3,46,GQ4-53T,K-Y171-IY,433 MHz,0,12.99,120,n/a,12.99,https://www.uhs-hardware.com/products/2013-2019-dodge-ram-3-button-fobik-gq4-53t-rk-fbk-ram-3
+0003,,1,,1,smart,1,0,RSK-JP-1302-5,46,M3N-40821302,K-Y172,433,0,22.99,160,n/a,22.99,https://www.uhs-hardware.com/products/2014-2022-jeep-grand-cherokee-5-button-smart-key-pn-68143505ac-m3n-40821302-rsk-jp-1302-5
+0004,,1,,1,smart,1,0,RFK-GM-CRZ4,PHILIPS ID 46 GM EXT,LXP-T004,n/a,433 MHz,0,17.45,160,n/a,17.45,https://www.uhs-hardware.com/products/2016-2019-chevrolet-cruze-4-button-flip-key-pn-13514135-lxp-t004-433-mhz-xl8-rfk-gm-crz4
+0005,,1,,1,smart,1,0,RSK-NIS-ROG20,n/a,KR5TXN3,EKB-NIS-NI06,434 MHz,0,22.0,160,n/a,22.0,https://www.uhs-hardware.com/products/2018-2021-nissan-kicks-rogue-4-button-smart-key-pn-285e3-5ra6a-kr5txn3-rsk-nis-rog20
+0006,,1,,1,smart,1,0,RSK-NIS-ROG18,n/a,KR5S180144106,EKB-NIS-NI06,434 MHz,0,19.85,160,n/a,19.85,https://www.uhs-hardware.com/products/2017-2018-nissan-rogue-4-button-smart-key-kr5s180144106-rsk-nis-rog18
+0007,,2,,1,smart,2,0,RSK-CHY-1302-5,46,M3N-40821302,K-Y172,433 MHz,0,19.95,160,n/a,39.9,https://www.uhs-hardware.com/products/2011-2018-dodge-chrysler-5-button-smart-key-m3n-40821302-rsk-chy-1302-5
+0008,x,RO-GM-LHJ,1
+0009,,1,,1,smart,1,0,RSK-NIS-4106,n/a,KR5S180144106,EKB-NIS-NI06,433 MHz,0,24.99,160,n/a,24.99,https://www.uhs-hardware.com/products/2014-2016-nissan-rogue-4-button-smart-key-kr5s180144106-rsk-nis-4106
+0010,,1,,1,smart,1,0,RSK-NIS-7B10,n/a,KR5S180144106,EKB-NIS-NI06,433 MHz,0,23.99,160,n/a,23.99,https://www.uhs-hardware.com/products/2017-2020-nissan-rogue-5-button-smart-key-pn-285e3-6fl7a-s180144110-kr5s180144106-rsk-nis-7b10
+0011,,1,,1,smart,1,0,RSK-NIS-G744-5,Philips 46,CWTWB1G744,EKB-NIS-NI06,433 MHZ,0,24.9,160,n/a,24.9,https://www.uhs-hardware.com/products/2017-2018-nissan-armada-5-button-smart-key-cwtwb1g744-aftermarket
+0012,,2,,1,smart,2,0,RSK-NIS-014A,n/a,KR5S180144014,EKB-NIS-NI06,433 MHz,0,19.99,160,n/a,39.98,https://www.uhs-hardware.com/products/2016-2018-nissan-altima-maxima-4-button-smart-key-kr5s180144014-ic-204-aftermarket
+0013,,2,,1,smart,2,0,RSK-NIS-1315-5,n/a,KR5S180144014,EKB-NIS-NI06,434 MHz,0,23.99,160,n/a,47.98,https://www.uhs-hardware.com/products/2013-2015-nissan-maxima-altima-5-button-prox-smart-key-pn-285e3-3tp5a-kr5s180144014-ic-014-rsk-nis-1315-5
+0014,,1,,1,smart,1,0,RSK-NIS-ALT20,n/a,KR5TXN1,EKB-NIS-NI06,433 MHz,0,22.9,160,n/a,22.9,https://www.uhs-hardware.com/products/2019-2020-nissan-altima-versa-sentra-4-button-smart-key-pn-285e3-6ca1a-kr5txn1-rsk-nis-alt20
+0015,,1,,1,smart,1,0,RSK-NIS-XN45,n/a,KR5TXN4,EKB-NIS-NI06,433 MHz,0,29.9,160,n/a,29.9,https://www.uhs-hardware.com/products/2019-2020-nissan-rogue-5-button-smart-key-pn-285e3-6rr7a-s180144507-kr5txn4-oem
+0016,,1,,1,smart,1,0,RK-NIS-903,n/a,FCC ID,EKB-NIS-NI06,315 MHz,0,14.05,160,n/a,14.05,https://www.uhs-hardware.com/products/2007-2015-nissan-inifiniti-4-button-smart-key-kr55wk48903-9622-rk-nis-903
+0017,,1,,1,smart,1,0,RSK-GM-4EA-5BH,n/a,HYQ4EA,EKB-GM-1578,434 MHz,0,49.0,160,n/a,49.0,https://www.uhs-hardware.com/products/2018-2020-chevrolet-5-button-smart-key-w-hatch-pn-13529636-hyq4ea-aftermarket
+0018,,1,,1,smart,1,0,RSK-GM-4EA-5,n/a,HYQ4EA,EKB-GM-1578,433 MHz,0,28.99,160,n/a,28.99,https://www.uhs-hardware.com/products/2016-2022-chevrolet-5-button-smart-key-hyq4ea-aftermarket
+0019,,1,,1,smart,1,0,RSK-ULK173,n/a,HYQ4EA,EKB-GM-1578,433 MHZ,0,49.0,160,n/a,49.0,https://www.uhs-hardware.com/products/2016-2018-chevrolet-camaro-6-button-remote-smart-key-pn-13508780-hyq4ea-oem
+0020,,1,,1,flip,1,0,RFK-GM-PRX5,ID 46,01060512,n/a,315 MHz,0,13.75,120,n/a,13.75,https://www.uhs-hardware.com/products/2010-2019-gm-5-button-flip-key-peps-pn-13504199-oht01060512-rfk-gm-prx5
+0021,,4,,1,flip,4,0,RK-GM-FP5,PHILIPS ID 46 GM EXT,OHT01060512,n/a,315 MHz,0,8.87,120,n/a,35.48,https://www.uhs-hardware.com/products/2010-2020-gm-5-button-flip-key-oht01060512-rk-gm-fp5
+0022,,2,,1,flip,2,0,RFK-FD-RA04,"TEXAS ID 4D 63 128 BIT, 49",N5F-A08TDA,n/a,902 MHz,0,38.99,120,n/a,77.98,https://www.uhs-hardware.com/products/2015-2022-ford-f-series-raptor-ranger-4-button-flip-key-164-r8134-n5f-a08tda-aftermarket
+0023,,1,,1,flip,1,0,RFK-KIA-FT04,n/a,OSLOKA-875T  OSLOKA875T,n/a,433 MHz,0,29.95,120,n/a,29.95,https://www.uhs-hardware.com/products/2017-2018-kia-forte-4-button-flip-key-pn-95430-a7200-osloka-875t-yd-aftermarket
+0024,,1,,1,flip,1,0,RFK-KIA-022,n/a,SY5JFRGE04,n/a,434 MHz,0,21.95,120,n/a,21.95,https://www.uhs-hardware.com/products/2016-2020-kia-optima-4-button-flip-key-pn-95430-d4010-sy5jfrge04-jf-4bt-aftermarket
+0025,,1,,1,flip,1,0,RFK-KIA066,n/a,OSLOKA-910T (UM),n/a,433 Mhz,0,39.99,120,n/a,39.99,https://www.uhs-hardware.com/products/2015-2020-kia-sorento-4-button-flip-key-pn-95430-c5101-osloka-910t-um-oem-refurb
+0026,x,RFK-KIA-SO19,1
+0027,,1,,1,flip,1,0,RFK-KIA-OPT4,n/a,NYODD4TX1306-TFL,n/a,315 Mhz,0,32.95,120,n/a,32.95,https://www.uhs-hardware.com/products/2014-2015-kia-optima-4-button-flip-key-pn-95430-2t560-nyodd4tx1306-tfl-aftermarket
+0028,,1,,1,flip,1,0,RFK-KIA-022,n/a,SY5JFRGE04,n/a,434 MHz,0,21.95,120,n/a,21.95,https://www.uhs-hardware.com/products/2016-2020-kia-optima-4-button-flip-key-pn-95430-d4010-sy5jfrge04-jf-4bt-aftermarket
+0029,,1,,1,flip,1,0,RFK-HY-SNFE4,n/a,TQ8-RKE-4F31,FKB-HY-092,433 MHz,0,13.99,120,n/a,13.99,https://www.uhs-hardware.com/products/2015-2019-hyundai-santa-fe-4-button-flip-key-tq8-rke-4f31-rfk-hy-snfe4
+0030,,1,,1,flip,1,0,RFK-HY-SON17,Non-Transponder,TQ8-RKE-4F16,n/a,433 MHz,0,28.0,120,n/a,28.0,https://www.uhs-hardware.com/products/2015-2017-hyundai-sonata-4-button-flip-key-pn-95430-c1010-tq8-rke-4f16
+0031,,1,,1,flip,1,0,RFK-HY-SN25,n/a,TQ8-RKE-4F25 (LF 4BT),n/a,433 Mhz,0,28.0,120,n/a,28.0,https://www.uhs-hardware.com/products/2017-2020-hyundai-sonata-4-button-remote-flip-key-pn-95430-c1210-tq8-rke-4f25-lf-4bt-rfk-hy-sn25
+0032,,1,,1,smart,1,0,RSK-CAD-2AB-5,n/a,HYQ2AB,EKB-GM-1535,315 MHz,0,24.99,160,n/a,24.99,https://www.uhs-hardware.com/products/rsk-cad-2ab-5
+0033,,1,,1,smart,1,0,RSK-GM-NBG-5,46 GM,NBG009768T,n/a,315 Mhz,0,24.99,160,n/a,24.99,https://www.uhs-hardware.com/products/2010-2015-cadillac-srx-ats-xts-5-button-smart-key-nbg009768-rsk-gm-nbg-6
+0034,,1,,1,flip,1,0,RFK-NIS-767,4A,CWTWB1G767,n/a,433 MHz,0,14.99,120,n/a,14.99,https://www.uhs-hardware.com/products/2014-2019-nissan-rogue-3-button-flip-key-pn-28268-4ba1a-cwtwb1g767-rfk-nis-767
+0035,,4,,1,transponder,4,0,K-B119,n/a,n/a,n/a,n/a,0,7.5,80,n/a,30.0,https://www.uhs-hardware.com/products/2010-2019-gm-b119-transponder-key-aftermarket
+0036,,2,,1,transponder,2,0,K-HO03,n/a,n/a,n/a,n/a,0,3.73,80,n/a,7.46,https://www.uhs-hardware.com/products/k-ho03
+0037,,1,,1,combo,1,0,RK-HON-MLB-4,Philips 46,MLBHLIK-1T,n/a,314 MHZ,0,11.0,120,n/a,11.0,https://www.uhs-hardware.com/products/rk-hon-mlb-4
+0038,,2,,1,combo,2,0,RHK-HON-ACC2,Phillips 46,KR55WK49308,n/a,314 MHz,0,6.29,120,n/a,12.58,https://www.uhs-hardware.com/products/2008-2015-honda-accord-pilot-4-button-remote-head-key-kr55wk49308-rhk-hon-acc2
+0039,,2,,1,combo,2,0,RK-HON-401,n/a,OUCG8D-380H-A,n/a,314 Mhz,0,10.75,120,n/a,21.5,https://www.uhs-hardware.com/products/2003-2010-honda-accord-element-4-button-remote-head-key-oucg8d-380h-a-rk-hon-401
+0040,,2,,1,combo,2,0,RK-HON-CIV-4,PHILIPS 46,"N5F-S0084A, N5F-A05TAA",n/a,314 MHz,0,12.5,120,n/a,25.0,https://www.uhs-hardware.com/products/2006-2013-acura-honda-civic-4-button-remote-head-key-n5f-s0084a-rk-hon-civ-4
+0041,,1,,1,combo,1,0,RK-HON-1TA-4,PHILIPS ID 47 HONDA G,MLBHLIK6-1TA,n/a,433 Mhz,0,15.99,120,n/a,15.99,https://www.uhs-hardware.com/products/2016-2020-honda-accord-civic-4-button-remote-head-key-mlbhlik6-1ta-g-chiprk-hon-1ta-4
+0042,x,RK-HON-35118,1
+0043,,1,,1,remote,1,0,RSK-HON-CT0A-3,n/a,ACJ932HK1210A,EKB-HON-HS1,314 MHz,0,49.99,60,n/a,49.99,https://www.uhs-hardware.com/products/2013-2015-honda-crosstour-3-button-smart-key-pn-72147-tp6-a61-acj932hk1210a-aftermarket
+0044,,1,,1,remote,1,0,RO-HY-T008,n/a,PINHA-T008,n/a,315 MHz,0,18.99,60,n/a,18.99,https://www.uhs-hardware.com/products/2010-2014-kia-hyundai-4-button-keyless-entry-remote-pinha-t008-ro-hy-t008
+0045,,1,,1,remote,1,0,RO-HY-042,n/a,OSLOKA-360T,n/a,314 Mhz,0,11.99,60,n/a,11.99,https://www.uhs-hardware.com/products/2011-2016-hyundai-elantra-sedan-4-button-keyless-entry-remote-pn-95430-3x501-osloka-360ttik-hyu-41
+0046,,1,,1,remote,1,0,RO-HY-041,n/a,OSLOKA-950T,n/a,314 Mhz,0,9.99,60,n/a,9.99,https://www.uhs-hardware.com/products/2011-2015-hyundai-sonata-4-button-keyless-entry-remote-pn-95430-3q000-osloka-950tro-hy-041
+0047,,1,,1,remote,1,0,OR-KIA011,n/a,NYOSEKS-TF10ATX  NYOSEKSTF10ATX,n/a,314 Mhz,0,29.0,60,n/a,29.0,https://www.uhs-hardware.com/products/2010-2013-kia-optima-4-button-keyless-entry-remote-pn-95430-2t000-nyoseks-tf10atx-oem
+0048,,2,,1,remote,2,0,OR-KIA-036,n/a,PINHA-T036,n/a,315 Mhz,0,14.75,60,n/a,29.5,https://www.uhs-hardware.com/products/2006-2013-kia-rio-sorento-3-button-keyless-entry-remote-pn-95430-1u000-pinha-t036-or-kia-036
+0049,,2,,1,shell,2,0,ST-VA2,n/a,n/a,n/a,n/a,0,2.35,80,n/a,4.7,https://www.uhs-hardware.com/products/va2-2-track-hs-transponder-key-shell-no-chip-st-va2
+0050,,2,,1,metal,2,0,MTK-VA2,n/a,n/a,n/a,n/a,0,8.5,60,n/a,17.0,https://www.uhs-hardware.com/products/hyundai-kia-va2-kk12-high-security-test-blade-10-pack-mtk-va2-1
+0051,,1,,1,remote,1,0,OR-HY-HE3T,n/a,OSLOKA-423T,n/a,434 MHz,0,20.0,60,n/a,20.0,https://www.uhs-hardware.com/products/2016-2020-hyundai-elantra-4-button-keyless-entry-remote-pn-95430-f2300-osloka-423t-aftermarket
+0052,,1,,1,remote,1,0,OR-HY-T038,n/a,PINHA-T038,n/a,315 Mhz,0,12.75,60,n/a,12.75,https://www.uhs-hardware.com/products/2007-2012-hyundai-accent-santa-fe-3-button-keyless-entry-remote-pn-95411-0w100-pinha-t038-or-hy-t038
+0053,,1,,1,remote,1,0,RO-HY-043,n/a,OSLOKA-310T,n/a,314 MHz,0,13.5,60,n/a,13.5,https://www.uhs-hardware.com/products/2006-2010-hyundai-4-button-keyless-entry-remote-pn-95430-2h200-osloka-310tro-hy-043
+0054,,2,,1,combo,2,0,RK-CHY-OHT-4,PHILIPS 46,"OHT692427AA, OHT692713AA, KOBDT04A",n/a,315 Mhz,0,8.95,120,n/a,17.9,https://www.uhs-hardware.com/products/2004-2016-chrysler-dodge-jeep-4-button-remote-head-key-oht692427aa-rk-chy-oht-4
+0055,,4,,1,transponder,4,0,K-Y164,n/a,n/a,n/a,n/a,0,3.99,80,n/a,15.96,https://www.uhs-hardware.com/products/2004-2019-chrysler-dodge-jeep-transponder-key-y164-chip-46-k-y164
+0056,,1,,1,fobik,1,0,RK-FBK-1004,Phillips ID 46,M3N32297100,Y171,433 Mhz,0,11.99,120,n/a,11.99,https://www.uhs-hardware.com/products/2012-2016-dodge-dart-4-button-fobik-key-m3n32297100-rk-fbk-1004
+0057,,1,,1,smart,1,0,RSK-JP-54T-4,n/a,GQ4-54T,K-Y172,433,0,27.5,160,n/a,27.5,https://www.uhs-hardware.com/products/2014-2021-jeep-cherokee-4-button-smart-key-gq4-54t-aftermarket
+0058,,2,,1,combo,2,0,RK-FD-402,Ford 4D-63 80-bit,CWTWB1U331 CWTWBIU331 CWTWB1U322 CWTWBIU322 CWTWB1U345 CWTWBIU345 GQ43VT11T,n/a,n/a,0,11.95,120,n/a,23.9,https://www.uhs-hardware.com/products/2000-2017-ford-lincoln-mercury-4-button-remote-head-key-ouc6000022-rk-fd-402
+0059,,1,,1,combo,1,0,RK-FD-404,"DST 80 Bit (SA on the blade), 4D63, DST 40","OUC6000022, CWTWB1U793",n/a,315 MHz,0,18.99,120,n/a,18.99,https://www.uhs-hardware.com/products/2009-2018-ford-f-series-explorer-4-button-remote-head-key-ouc6000022-rk-fd-404
+0060,,3,,1,transponder,3,0,K-H92-OEMCHIP,n/a,n/a,n/a,n/a,0,8.49,80,n/a,25.47,https://www.uhs-hardware.com/products/k-h92-oemchip
+0061,,2,,1,combo,2,0,RK-FD-303,4D63 80 Bit,OUCD6000022,n/a,315 MHz,0,14.95,120,n/a,29.9,https://www.uhs-hardware.com/products/2012-2019-ford-3-button-remote-head-key-oucd6000022-rk-fd-303
+0062,,1,,1,smart,1,0,RSK-FD-GLSHN,46,"M3N5WY8610, M3N5WY8609",EKB-FD-RB-01,315 MHz,0,25.9,160,n/a,25.9,https://www.uhs-hardware.com/products/2011-2020-ford-5-button-peps-smart-key-pn-bt4t-15k601-hc-m3n5wy8609-aftermarket
+0063,,10,,1,metal,10,0,MTK-H75,n/a,n/a,n/a,n/a,0,3.99,60,n/a,39.900000000000006,https://www.uhs-hardware.com/products/ford-lincoln-mercury-h75-test-key-blade-10-pack-aftermarket
+0064,,2,,1,remote,2,0,R-FD-4,n/a,"CWTWB1U311, CWTWB1U322 ...",n/a,315 Mhz,0,2.95,60,n/a,5.9,https://www.uhs-hardware.com/products/1998-2014-ford-lincoln-mercury-4-button-keyless-entry-remote-cwtwb1u311-r-fd-4
+0065,,1,,1,remote,1,0,R-GM-802,n/a,OUC60270 & OUC60221,n/a,315 MHz,0,5.99,60,n/a,5.99,https://www.uhs-hardware.com/products/2005-2013-gm-5-button-keyless-entry-remote-ouc60270-r-gm-802
+0066,,1,,1,remote,1,0,R-GM-402,n/a,OUC60270 & OUC60221,n/a,315 Mhz,0,5.99,60,n/a,5.99,https://www.uhs-hardware.com/products/2007-2017-gm-4-button-keyless-entry-remote-ouc60270-r-gm-402
+0067,,2,,1,remote,2,0,R-GM-502,n/a,OUC60270 & OUC60221,n/a,315 MHz,0,7.99,60,n/a,15.98,https://www.uhs-hardware.com/products/2007-2017-gm-5-button-keyless-entry-remote-pn-20869057-ouc60270-ouc60221-aftermarket
+0068,,1,,1,remote,1,0,R-GM-301,n/a,KOBGT04A,n/a,315 MHz,0,8.0,60,n/a,8.0,https://www.uhs-hardware.com/products/2005-2011-gm-3-button-keyless-entry-remote-kobgt04a-r-gm-301
+0069,x,K-N104,2
+0070,x,K-N102T,2
+0071,,1,,1,flip,1,0,RFK-TOY-BFB-4,"TEXAS ID 4D H, 8A",HYQ12BFB,n/a,315 MHz,0,28.95,120,n/a,28.95,https://www.uhs-hardware.com/products/2018-2022-toyota-camry-4-button-flip-key-pn-89070-06790-hyq12bfb-h-chip-aftermarket
+0072,,1,,1,combo,1,0,RHK-TOY-BDM-G-4,G,HYQ12BDM,n/a,315 MHz,0,15.99,120,n/a,15.99,https://www.uhs-hardware.com/products/2012-2014-toyota-camry-4-button-remote-head-key-pn-89070-06420-hyq12bdm-g-chip-rhk-toy-bdm-g-4
+0073,,1,,1,combo,1,0,RHK-TOY-BDM-H-4,H,HYQ12BDM,n/a,315 MHz,0,15.99,120,n/a,15.99,https://www.uhs-hardware.com/products/2014-2018-toyota-camry-4-button-remote-head-key-hyq12bdm-h-chip-rhk-toy-bdm-h-4
+0074,,1,,1,combo,1,0,RHK-TOY-29T-G3,TEXAS ID 4D 72 G CHIP,"GQ4-29T, GQ429",n/a,315 MHz,0,13.99,120,n/a,13.99,https://www.uhs-hardware.com/products/rhk-toy-29t-g3
+0075,x,RHK-TOY-29T-67-4B,1
+0076,,1,,1,smart,1,0,RSK-TOY-00204,n/a,HYQ14FBA,K-TOY-EM36,315 MHz,0,59.99,160,n/a,59.99,https://www.uhs-hardware.com/products/2012-2020-toyota-4-button-smart-key-hyq14fba-g-board-0020-rsk-toy-00204
